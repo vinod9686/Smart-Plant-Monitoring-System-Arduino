@@ -1,0 +1,8 @@
+Soil: 888 | LDR: 93 | Temp: 33.8°C | Hum: 31%
+Motor ON (Dry Soil)
+Light ON (Dark)
+================================
+Soil: 395 | LDR: 205 | Temp: 33.8°C | Hum: 31%
+Motor OFF (Wet Soil)
+Light ON (Dark)
+================================
